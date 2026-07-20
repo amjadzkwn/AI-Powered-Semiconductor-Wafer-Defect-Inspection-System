@@ -990,7 +990,7 @@ Predictions should be validated before being used in real manufacturing decision
 
 ## Author
 
-**Amjad Noraz**
+**Muhammad Amjad Zakwan**
 
 Bachelor of Computer Science with Honours in Data Science
 
