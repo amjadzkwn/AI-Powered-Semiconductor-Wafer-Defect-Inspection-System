@@ -554,6 +554,8 @@ The dashboard allows users to:
 * View model performance information
 * Access prediction analytics
 
+![Dashboard](https://github.com/amjadzkwn/AI-Powered-Semiconductor-Wafer-Defect-Inspection-System/blob/060b2dfefb190311a888b17ef7aab004d85022a8/docs/images/dashboard.png)
+
 Recommended screenshots for the repository:
 
 ```text
@@ -563,12 +565,6 @@ docs/images/swagger-api.png
 docs/images/docker-running.png
 docs/images/confusion-matrix.png
 docs/images/system-architecture.png
-```
-
-Screenshots can be displayed in this README using:
-
-```markdown
-![Dashboard](docs/images/dashboard.png)
 ```
 
 ---
