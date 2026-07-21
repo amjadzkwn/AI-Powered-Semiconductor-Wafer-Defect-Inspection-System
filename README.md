@@ -554,7 +554,7 @@ The dashboard allows users to:
 * View model performance information
 * Access prediction analytics
 
-![Dashboard](https://github.com/amjadzkwn/AI-Powered-Semiconductor-Wafer-Defect-Inspection-System/blob/060b2dfefb190311a888b17ef7aab004d85022a8/docs/images/dashboard.png)
+![Dashboard](https://github.com/amjadzkwn/AI-Powered-Semiconductor-Wafer-Defect-Inspection-System/blob/52b021552c64d4d8d65ea6ca1142027511da8f7c/docs/images/normal_result.png)
 
 Recommended screenshots for the repository:
 
