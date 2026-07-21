@@ -1026,14 +1026,6 @@ Model Monitoring             Planned
 
 ---
 
-## License
-
-This project may be distributed under the MIT License.
-
-Add a `LICENSE` file to the repository before selecting a license for public distribution.
-
----
-
 ## Acknowledgements
 
 * WM-811K wafer map dataset
