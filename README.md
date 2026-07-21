@@ -6,6 +6,8 @@ This project demonstrates the complete lifecycle of an AI engineering solution, 
 
 The system is designed to classify semiconductor wafer defect patterns from wafer map images and expose the trained model through a production-style REST API and Streamlit dashboard.
 
+![Alt text](path/to/image.png)
+
 ---
 
 ## Table of Contents
